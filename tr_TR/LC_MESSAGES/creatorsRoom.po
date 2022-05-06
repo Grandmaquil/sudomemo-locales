@@ -142,76 +142,78 @@ msgid "CREATORS_ROOM"
 msgstr "Yaratıcı Odası"
 
 msgid "THEME_ERROR_THEME_NOT_OWNED"
-msgstr "Sorry! You do not own that theme."
+msgstr "Üzgünüm! O temaya dahip değilsin."
 
 msgid "THEME_SUCCESSFULLY_SET"
-msgstr "Theme successfully set!"
+msgstr "Tema başarılı bir şekilde kaydedildi!"
 
 msgid "BLOCKED_USERS"
-msgstr "Blocked users"
+msgstr "Engellenen kişiler"
 
 msgid "VIEW"
-msgstr "View"
+msgstr "Göster"
 
 msgid "FAN_COUNT_FORMAT"
-msgstr "Fans: %s"
+msgstr "Fanlar: %s"
 
 msgid "HEADER_LANGUAGE"
 msgstr "Dil"
 
 msgid "HEADER_MAIL_SETTINGS"
-msgstr "Mail Settings"
+msgstr "Posta Ayarları"
 
 msgid "HEADER_EDIT_BIOGRAPHY"
-msgstr "Edit Biography"
+msgstr "Biyografiyi düzenle"
 
 msgid "SET_BIO_INSTRUCTIONS"
-msgstr "Enter your profile biography below. This will be displayed on Sudomemo and Sudomemo Theatre."
+msgstr "Biyografini alta gir. Bu Sudomemo ve Sudomemo Tiyatrosunda görülecek."
 
 msgid "ENTER_BIO"
-msgstr "Enter Bio..."
+msgstr "Biyografi gir..."
 
 msgid "101_CHARACTER_LIMIT_BIO"
-msgstr "Your biography is limited to 101 characters."
+msgstr "Biyografin 101 harfle sınırlanmıştır."
 
 msgid "LEAVE_BLANK_TO_RESET_BIO"
-msgstr "To clear your biography, leave the form blank when submitting."
+msgstr "Biyografini temizlemek için biyografi yazarken boş bırak."
 
 msgid "CURRENT_BIO"
-msgstr "Current Bio:"
+msgstr "Şu andaki biyografi:"
 
 msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
-msgstr "You can't follow more than %d users."
+msgstr "%d'den fazla kişiyi takip edemezsin."
 
 msgid "RANKING"
-msgstr "Ranking"
+msgstr "Sıralama"
 
 msgid "TICKET_SECTION"
-msgstr "Tickets"
+msgstr "Biletler"
 
 msgid "DRAW_REGULAR_TICKET"
-msgstr "Draw Ticket"
+msgstr "Bilet çek"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
-msgstr "You can draw a regular ticket! You might win a prize."
+msgstr "Basit bir bilet çekebilirsin! Bir ödül kazanma şansın var."
 
 msgid "INVENTORY"
-msgstr "Inventory"
+msgstr "Envanter"
 
 msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
-msgstr "You can draw another ticket in: %s hour(s) %s minute(s)."
+msgstr "%s saat %s dakika sonra bir bilet çekebilirsin."
+
+
 
 msgid "REDEEM"
-msgstr "Redeem"
+msgstr "Kullan"
 
 msgid "SPENDABLE_STARS"
-msgstr "Your Stars"
+msgstr "Senin yıldızların"
 
 msgid "SPENDABLE_STARS_HELPTEXT"
-msgstr "Stars to add to Flipnotes or use for themes"
+msgstr "Flipnote'lara ekleyebileceğin ya da temalar için kullanabileceğin yıldızlar."
 
 msgid "LOGIN_REQUIRED_ACTION"
-msgstr "You must be logged in to perform this action."
+msgstr "Bu eylemi yapmak için giriş yapman gerekiyor."
 
 msgid "PAGE"
 msgstr "Page"
