@@ -4,61 +4,61 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "LOGIN_REQUIRED_TO_MANAGE_BLOCKS"
-msgstr "You need to be logged in to manage blocked users."
+msgstr "Engellen kişileri yönetmek için giriş yapman gerekiyor."
 
 msgid "NO_USERS_BLOCKED"
-msgstr "You have no blocked users."
+msgstr "Engellenen kişilerin yok"
 
 msgid "BLOCKED_USERS"
-msgstr "Blocked Users"
+msgstr "Engellenen kişiler"
 
 msgid "BLOCK_USER"
-msgstr "Block User"
+msgstr "Kişiyi engelle"
 
 msgid "COMMENT_BLOCK_IS_MUTUAL"
-msgstr "Once you have blocked this user, you will no longer be able to comment on each other's Flipnotes."
+msgstr "Bu kişiyi engelledikten sonra birbirinizin Flipnote'larına yorum yazamayacaksınız."
 
 msgid "USER_HAS_BEEN_BLOCKED"
-msgstr "This user has been blocked."
+msgstr "Bu kişi engellendi"
 
 msgid "IF_YOU_WISH_TO_UNBLOCK"
-msgstr "If you should ever wish to unblock them, you may unblock them by visiting your Creator's Room and opening the Blocked Users menu."
+msgstr "Eğer onun engelini kaldırmak istersen Yaratıcı Odandaki engellenen kişiler menüsünü ziyaret edebilirsin."
 
 msgid "CONFIRM_BLOCK"
-msgstr "Confirm Block"
+msgstr "Engellemeyi doğrula"
 
 msgid "USER_ALREADY_BLOCKED"
-msgstr "You have already blocked this user. You may unblock them from the Settings menu in your Creator's Room, but you must wait 24 hours before you can block them again."
+msgstr "Bu kişiyi zaten engelledin. Onun engelini Yaratıcı Odandaki ayarlar menüsünden kaldırabilirsin, ama yeniden engellemek için 24 saat beklemen gerekir."
 
 msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
-msgstr "You have recently unblocked this user. You cannot block them again until %s"
+msgstr "Bu kişinin engelini yakın zamanda kaldırdın. %s'ye kadar yeniden engelleyemezsin"
 
 msgid "UNBLOCK"
-msgstr "Unblock"
+msgstr "Engeli kaldır"
 
 msgid "LOGIN_REQUIRED"
-msgstr "You must be logged in to perform this action."
+msgstr "Bu eylemi yapmak için giriş yapman gerekiyor."
 
 msgid "TAP_BACK_TO_RETURN"
-msgstr "Tap Back to return to your Creator's Room."
+msgstr "Yaratıcı Odana dönmek için tıkla."
 
 msgid "UNBLOCK_USER"
-msgstr "Unblock User"
+msgstr "Kişinin engelini kaldır"
 
 msgid "CANNOT_UNBLOCK_NONBLOCKED_USER"
-msgstr "You cannot unblock this user, as you haven't actually blocked them in the first place."
+msgstr "Bu kişiyi zaten engellemediğin için engelini kaldıramazsın."
 
 msgid "USER_HAS_BEEN_UNBLOCKED"
 msgstr "You have unblocked this user."
 
 msgid "COMMENTING_ENABLED_AFTER_UNBLOCK"
-msgstr "After you have unblocked this user, they will be able to comment on your Flipnotes again, unless they have you blocked as well."
+msgstr "Bu kişinin engelini kaldırdıktan sonra eğer o da seni engellemediyse Flipnote'larına yorum yazabilecek."
 
 msgid "UNBLOCK_WARNING_ONE_DAY_THRESHOLD"
-msgstr "If you unblock them, you must wait 24 hours before you are able to block them again."
+msgstr "Bu kişinin engelini kaldırırsan 24 saat boyunca yeniden engelleyemeyeceksin"
 
 msgid "CONFIRM_UNBLOCK"
-msgstr "Confirm Unblock"
+msgstr "Engeli kaldırmayı doğrula"
 
 msgid "RECENTLY_UNBLOCKED_ONE_DAY_THRESHOLD"
-msgstr "You have recently unblocked this user. You must wait 24 hours from the time you unblocked them before you are able to block them again."
+msgstr "Bu kişinin engelini yakın zamanda kaldırdın. Yeniden engellemek için Engelledikten sonra 24 saat beklemelisin."
