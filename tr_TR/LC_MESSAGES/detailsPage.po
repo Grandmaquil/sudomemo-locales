@@ -49,74 +49,76 @@ msgid "HEADER_FLIPNOTE_ID"
 msgstr "Flipnote numarası"
 
 msgid "HEADER_CHANNEL"
-msgstr "Channel"
+msgstr "Kanal"
 
 msgid "HEADER_OPTIONS"
-msgstr "Options"
+msgstr "Ayarlar"
 
 msgid "HEADER_SET_AS_PROFILE_PICTURE"
-msgstr "Set as Profile Picture"
+msgstr "Profil fotoğrafı olarak ayarla"
 
 msgid "HEADER_REPORT_FLIPNOTE"
-msgstr "Report Flipnote"
+msgstr "Flipnote'u bildir"
 
 msgid "ADMIN_ACTIONS"
-msgstr "Admin actions"
+msgstr "Yetkili eylemleri"
 
 msgid "PREV"
-msgstr "Prev"
+msgstr "Önceki"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Sonraki"
 
 msgid "STAR_DETAILS_UPPERTITLE"
-msgstr "★ Stars ★"
+msgstr "★ Yıldızlar ★"
 
 msgid "SET_TITLE"
-msgstr "Set Title"
+msgstr "Başlık ayarla"
 
 msgid "SET_TITLE_INSTRUCTIONS"
-msgstr "Enter the new title for your Flipnote below."
+msgstr "Flipnote'unun yeni başlığını alta yaz."
 
 msgid "40_CHARACTER_LIMIT"
-msgstr "Your title is limited to 40 characters in length."
+msgstr "Başlığın 40 harf ile sınırlandırıldı."
+
+
 
 msgid "LEAVE_BLANK_TO_RESET"
-msgstr "To reset the title to default, leave the form blank when submitting."
+msgstr "Başlığı varsayılana döndürmek için başlığı boş bırak."
 
 msgid "ENTER_TITLE"
-msgstr "Enter title..."
+msgstr "Başlık gir..."
 
 msgid "HEADER_ADD_DESCRIPTION"
-msgstr "Add Description"
+msgstr "Açıklama ekle"
 
 msgid "HEADER_DESCRIPTION"
-msgstr "Description"
+msgstr "Açıklama"
 
 msgid "SET_DESCRIPTION"
-msgstr "Set Description"
+msgstr "Açıklamayı ayarla"
 
 msgid "SET_DESCRIPTION_INSTRUCTIONS"
-msgstr "Enter the new description for your Flipnote below."
+msgstr "Flipnote'unun yeni açıklamasını aşağıya gir."
 
 msgid "101_CHARACTER_LIMIT_DESC"
-msgstr "Your description is limited to 101 characters in length."
+msgstr "Açıklaman 101 harf ile sınırlandırıldı."
 
 msgid "LEAVE_BLANK_TO_RESET_DESC"
-msgstr "To remove the description, leave the form blank when submitting."
+msgstr "Açıklamayı kaldırmak için açıklamayı boş bırak."
 
 msgid "ENTER_DESCRIPTION"
-msgstr "Enter description..."
+msgstr "Açıklama gir..."
 
 msgid "HEADER_FLIPNOTE_OPTIONS"
-msgstr "Options"
+msgstr "Ayarlar"
 
 msgid "HEADER_SONG"
-msgstr "Song"
+msgstr "Şarkı"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
-msgstr "Untitled Flipnote by %s"
+msgstr "%s tarafından başlıksız Flipnote"
 
 msgid "HEADER_UPLOAD_TO_YOUTUBE"
-msgstr "Upload to YouTube"
+msgstr "Youtube'a yükle"
