@@ -4,55 +4,55 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "COMMENT_DETAILS"
-msgstr "Comment Details"
+msgstr "Yorum detayları"
 
 msgid "MESSAGE_DETAILS"
-msgstr "Message Details"
+msgstr "Mesaj Detayları"
 
 msgid "AUTHOR"
-msgstr "Author"
+msgstr "Yazar"
 
 msgid "COMMENT_BY_FORMAT"
-msgstr "Comment by %s"
+msgstr "%s tarafından yorum"
 
 msgid "CHAT_MESSAGE_FROM_FORMAT"
-msgstr "Chat Message from %s"
+msgstr "%s tarafından sohbet mesajı"
 
 msgid "MESSAGE_FROM_FORMAT"
-msgstr "Message from %s"
+msgstr "%s tarafından mesaj"
 
 msgid "FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote by %s"
+msgstr "%s tarafından Flipnote"
 
 msgid "COMMENT_ID"
-msgstr "Comment ID"
+msgstr "Yorum numarası"
 
 msgid "MESSAGE_ID"
-msgstr "Message ID"
+msgstr "Mesaj numarası"
 
 msgid "CHAT_COMMENT_ID"
-msgstr "Chat Comment ID"
+msgstr "sohbet yorumu numarası"
 
 msgid "TIMESTAMP"
-msgstr "Timestamp"
+msgstr "Zaman damgası"
 
 msgid "POSTED_TO"
-msgstr "Posted to"
+msgstr "şuna gönderildi"
 
 msgid "PRIVATE_CONVERSATION"
-msgstr "Private Conversation"
+msgstr "Özel görüşme"
 
 msgid "REPORT_CONTENT"
-msgstr "Report Content"
+msgstr "İçeriği bildir"
 
 msgid "COMMENT_HIDDEN_UNKNOWN"
-msgstr "Comment hidden due to request"
+msgstr "İstek sonucu yorum saklandı"
 
 msgid "COMMENT_HIDDEN_SELF"
-msgstr "Comment hidden by author"
+msgstr "Yorum yazar tarafından saklandı"
 
 msgid "COMMENT_HIDDEN_RECIPIENT"
-msgstr "Comment hidden by Flipnote author"
+msgstr "Yorum Flipnote'un yapımcısı tarafından saklandı"
 
 msgid "COMMENT_HIDDEN_MODERATOR"
-msgstr "Comment hidden by moderator"
+msgstr "Yorum moderatör tarafından saklandı"
