@@ -4,34 +4,34 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "UPPERTITLE"
-msgstr "Browse Channel"
+msgstr "Kanalları ara"
 
 msgid "POST_FLIPNOTE"
 msgstr "Post Flipnote"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Sonraki"
 
 msgid "PREV"
-msgstr "Previous"
+msgstr "Önceki"
 
 msgid "PAGE"
-msgstr "Page"
+msgstr "Sayfa"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgstr "%d sayfadan %d"
 
 msgid "SPINOFFS"
-msgstr "Spinoffs"
+msgstr "Yan ürünler"
 
 msgid "BROWSE_BY_SONG"
-msgstr "Browse by Song"
+msgstr "Şarkıya göre ara"
 
 msgid "BROWSE_BY_ARTIST"
-msgstr "Browse by Artist"
+msgstr "Sanatçıya göre ara"
 
 msgid "BROWSE_BY_ALBUM"
-msgstr "Browse by Album"
+msgstr "Albüme göre ara"
 
 msgid "BROWSE_PLAYLIST"
-msgstr "Browse Playlist"
+msgstr "Oynayma listesine göre ara"
