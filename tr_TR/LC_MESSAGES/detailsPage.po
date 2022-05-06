@@ -7,46 +7,46 @@ msgid "TIMESTAMP_FORMAT"
 msgstr "M d, Y H:i:s"
 
 msgid "FLIPNOTE_TITLE_FORMAT"
-msgstr "Flipnote by %s"
+msgstr "%s tarafından Flipnote"
 
 msgid "HEADER_DETAILS"
-msgstr "Details"
+msgstr "Detaylar"
 
 msgid "HEADER_COMMENTS"
-msgstr "Comments"
+msgstr "Yorumlar"
 
 msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
-msgstr "This Flipnote is a spin-off."
+msgstr "Bu Flipnote bir yan ürün."
 
 msgid "HEADER_ORIGINAL_FLIPNOTE"
-msgstr "View the source Flipnote here"
+msgstr "Kaynak Flipnote Burada"
 
 msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
-msgstr "To prevent star-begging, yellow stars are limited to ten per Flipnote."
+msgstr "Yıldız dilenmeyi engellemek için sarı yıldız sayısını 10 ile limitledik."
 
 msgid "HEADER_CREATOR"
-msgstr "Creator"
+msgstr "Yaratıcı"
 
 msgid "HEADER_STARS"
-msgstr "Stars"
+msgstr "Yıldızlar"
 
 msgid "HEADER_VIEWS"
-msgstr "Views"
+msgstr "İzlenmeler"
 
 msgid "HEADER_SPINOFFS"
-msgstr "Spin-offs"
+msgstr "Yan ürünler"
 
 msgid "HEADER_DOWNLOADS"
-msgstr "Downloads"
+msgstr "İndirmeler"
 
 msgid "HEADER_TITLE"
-msgstr "Title"
+msgstr "Başlık"
 
 msgid "HEADER_POSTED"
-msgstr "Posted"
+msgstr "Gönderildi"
 
 msgid "HEADER_FLIPNOTE_ID"
-msgstr "Flipnote ID"
+msgstr "Flipnote numarası"
 
 msgid "HEADER_CHANNEL"
 msgstr "Channel"
