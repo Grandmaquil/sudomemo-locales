@@ -4,142 +4,142 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "SEE_MORE"
-msgstr "See more..."
+msgstr "Daha fazla"
 
 msgid "STARRED_FLIPNOTES"
-msgstr "Starred Flipnotes"
+msgstr "Yıldızlanan Flipnote'lar"
 
 msgid "FAVORITE_USERS"
-msgstr "Favorite Users"
+msgstr "Favori kişiler"
 
 msgid "FAVORITES_FEED"
-msgstr "Favorites Feed"
+msgstr "Favoriler bildirimleri"
 
 msgid "FAVORITE_CHANNELS"
-msgstr "Favorite Channels"
+msgstr "Favori kanallar"
 
 msgid "USER_DOWNLOADCOUNT"
-msgstr "Downloads"
+msgstr "İndirilenler"
 
 msgid "USER_VIEWCOUNT"
-msgstr "Views"
+msgstr "İzlenmeler"
 
 msgid "USER_THEME"
-msgstr "Theme"
+msgstr "Tema"
 
 msgid "THEME_SHOP"
-msgstr "Theme Shop"
+msgstr "Tema mağazası"
 
 msgid "POSTED_COMMENTS"
-msgstr "Posted Comments"
+msgstr "Gönderilen yorumlar"
 
 msgid "POSTED_CHATCOMMENTS"
-msgstr "Chatroom Messages"
+msgstr "Sohbet odası mesajları"
 
 msgid "FEATURE_USABILITY"
-msgstr "Feature Usability"
+msgstr "Özellik kullanılabilirliği"
 
 msgid "USABLE"
-msgstr "Usable"
+msgstr "Kullanılabilir"
 
 msgid "NOT_USABLE"
-msgstr "Not Usable"
+msgstr "Kullanılamaz"
 
 msgid "SUDOMEMO_THEATRE_URL"
-msgstr "Sudomemo Theatre Link"
+msgstr "Sudomemo Tiyatro Linki"
 
 msgid "FLIPNOTE_STUDIO_ID"
-msgstr "Flipnote Studio ID"
+msgstr "Flipnote Studio numarası"
 
 msgid "SETTINGS"
-msgstr "Settings"
+msgstr "Ayarlar"
 
 msgid "ADMIN_ACCT_GOOD_STANDING"
-msgstr "In good standing"
+msgstr "İyi durumda"
 
 msgid "ADMIN_ACCT_BANNED"
-msgstr "Banned"
+msgstr "Yasaklı"
 
 msgid "ADMIN_ACCT_BLOCKED"
-msgstr "Blocked"
+msgstr "Engellendi"
 
 msgid "ADMIN_ACCT_MUTED"
-msgstr "Muted"
+msgstr "Susturuldu"
 
 msgid "ADMIN_USER_DETAILS"
-msgstr "User Details"
+msgstr "Kişi detayları"
 
 msgid "ADMIN_LAST_SEEN"
-msgstr "Last seen"
+msgstr "Son görülme"
 
 msgid "ADMIN_USER_STATUS"
-msgstr "User Status"
+msgstr "Kişi durumu"
 
 msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
-msgstr "Admin Actions"
+msgstr "Yetkili eylemleri"
 
 msgid "BLOCK_COMMENTS_HEADER"
-msgstr "Block Comments"
+msgstr "Yorumları engelle"
 
 msgid "BLOCK_COMMENTS_LINK"
-msgstr "Block"
+msgstr "Engelle"
 
 msgid "USABILITY_USABLE"
-msgstr "Usable"
+msgstr "Kullanılabilir"
 
 msgid "USABILITY_NOT_USABLE"
-msgstr "Not Usable"
+msgstr "Kullanılamaz"
 
 msgid "HEADER_FOLLOWERS"
-msgstr "Followers"
+msgstr "Takipçiler"
 
 msgid "HEADER_FOLLOWING"
-msgstr "Following"
+msgstr "Takip edilenler"
 
 msgid "PREVIOUS"
-msgstr "Previous"
+msgstr "Önceki"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Sonraki"
 
 msgid "CHANGE_ROOM_THEME_LINK"
-msgstr "[change theme]"
+msgstr "[Tema değiştir]"
 
 msgid "SELECT_THEME"
-msgstr "Select Theme"
+msgstr "Tema seç"
 
 msgid "FANS"
-msgstr "Fans"
+msgstr "Fanlar"
 
 msgid "EXAMPLE"
-msgstr "Example"
+msgstr "Örnek"
 
 msgid "THEMETEST_SET_THEME"
-msgstr "Set Theme"
+msgstr "Temayı kullan"
 
 msgid "THEMETEST_NOTICE"
-msgstr "Notice"
+msgstr "Dikkat"
 
 msgid "THEMETEST_OK"
-msgstr "Okay"
+msgstr "Tamam"
 
 msgid "THEMETEST_ERROR"
-msgstr "Error"
+msgstr "Hata"
 
 msgid "THEMETEST_NOTICE_2"
-msgstr "Notice #2"
+msgstr "Dikkat #2"
 
 msgid "THEMETEST_ACTIVE_TAB"
-msgstr "Active tab"
+msgstr "Aktif sekme"
 
 msgid "THEMETEST_INACTIVE_TAB"
-msgstr "Inactive tab"
+msgstr "pasif sekme"
 
 msgid "PREVIEW"
-msgstr "Preview"
+msgstr "Önizleme"
 
 msgid "CREATORS_ROOM"
-msgstr "Creator's Room"
+msgstr "Yaratıcı Odası"
 
 msgid "THEME_ERROR_THEME_NOT_OWNED"
 msgstr "Sorry! You do not own that theme."
@@ -157,7 +157,7 @@ msgid "FAN_COUNT_FORMAT"
 msgstr "Fans: %s"
 
 msgid "HEADER_LANGUAGE"
-msgstr "Language"
+msgstr "Dil"
 
 msgid "HEADER_MAIL_SETTINGS"
 msgstr "Mail Settings"
