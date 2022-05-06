@@ -4,19 +4,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "SET_PEN_COLOR"
-msgstr "Set Pen Color"
+msgstr "Kalem rengi seç."
 
 msgid "SET_PAPER_COLOR"
-msgstr "Set Paper Color"
+msgstr "Sayfa rengi seç."
 
 msgid "SELECT_A_COLOR"
-msgstr "Select a color."
+msgstr "Renk seç."
 
 msgid "CURRENT_COLOR"
-msgstr "Current color:"
+msgstr "Seçili renk:"
 
 msgid "CURRENT_COLOR_DEFAULT"
-msgstr "Current color: default"
+msgstr "Seçili renk: varsayılan"
 
 msgid "RETURN"
-msgstr "Return"
+msgstr "Geri dön"
