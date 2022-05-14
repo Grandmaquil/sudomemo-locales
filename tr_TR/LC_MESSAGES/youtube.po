@@ -4,16 +4,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "HEADER_UPLOAD_TO_YOUTUBE"
-msgstr "Upload to YouTube"
+msgstr "Youtube'a yükle"
 
 msgid "YOUTUBE"
 msgstr "YouTube"
 
 msgid "HEADER_CONFIRM_OPTIONS"
-msgstr "Confirm Options"
+msgstr "Ayarları doğrula"
 
 msgid "LINK_REQUIRED_BEFORE_UPLOAD"
-msgstr "You'll need to link your YouTube channel before you can upload your Flipnote."
+msgstr "Youtube'a yükleme yapmadan önce Youtube kanalını bağlaman gerek."
 
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
 msgstr "Your YouTube account is unverified. Certain features will not function correctly, such as video thumbnails and Flipnotes longer than 15 minutes."
